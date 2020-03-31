@@ -1,0 +1,2 @@
+LOCK_ATTRIBUTE = "lock"
+DATA_ATTRIBUTE = "data"
